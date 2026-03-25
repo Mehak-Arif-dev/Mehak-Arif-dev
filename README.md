@@ -43,11 +43,8 @@ I’m open to projects, internships, and collaborations where I can apply my ski
 ---
 
 ## 📜 Certifications
-![Git & GitHub Master Version](certificates/git and github.png)  
-![Azure AI Fundamentals](certificates/Azure AI fundamentals.png)  
-
-[Download Git & GitHub Certificate PDF](certificates/Mehak Arif_Git & GitHub Course - Master Version Control.pdf)  
-[Download Azure AI Certificate PDF](certificates/Mehak Arif_Azure AI Fundamentals_ AI-900.pdf)  
+![Git & GitHub Master Version](certificates/git-and-github.png)
+![Azure AI Fundamentals](certificates/azure-ai.png) 
 
 ---
 
