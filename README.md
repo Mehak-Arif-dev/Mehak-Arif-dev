@@ -25,20 +25,18 @@ I’m open to projects, internships, and collaborations where I can apply my ski
 ---
 
 ## 📂 Projects
-| Project | Description |
-|---------|-------------|
-| 🎮 Flappy Bird Game | Interactive game built with HTML, CSS, and JavaScript |
-| 🔄 Skill Swap Web App | Web platform to exchange skills between users |
-| 🎤 Interview Simulator | Tool for practicing interview questions online |
-| 📚 Study Assistant | Web app to manage study schedules and tasks |
+- 🎮 **Flappy Bird Game** – Interactive game using HTML, CSS, JavaScript  
+- 🔄 **Skill Swap Web App** – Platform for exchanging skills  
+- 🎤 **Interview Simulator** – Tool to practice interview questions  
+- 📚 **Study Assistant** – App to manage study schedules  
 
 ---
 
 ## 💼 Experience
-**WordPress Developer Intern** | MAS Business Solutions (Remote)  
-- Developed and customized responsive websites using WordPress and Elementor  
-- Applied HTML, CSS, and frontend best practices  
-- Gained experience working in a structured remote workflow  
+**WordPress Developer Intern**  
+- Developed and customized responsive websites  
+- Worked with themes, plugins, and layouts  
+- Applied frontend development practices  
 
 ---
 
@@ -48,9 +46,20 @@ I’m open to projects, internships, and collaborations where I can apply my ski
   <a href="certificates/git-and-github.png">
     <img src="certificates/git-and-github.png" width="200"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="certificates/azure-ai.png">
     <img src="certificates/azure-ai.png" width="200"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="certificates/fullstack-webdevelopment.jpeg">
+    <img src="certificates/fullstack-webdevelopment.jpeg" width="200"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="certificates/wordpress.jpeg">
+    <img src="certificates/wordpress.jpeg" width="200"/>
   </a>
 </p>
 
