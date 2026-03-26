@@ -42,9 +42,6 @@ I’m open to projects, internships, and collaborations where I can apply my ski
 
 ## 📜 Certifications
 
-
-## 📜 Certifications
-
 | | |
 |---|---|
 | <a href="certificates/git-and-github.png"><img src="certificates/git-and-github.png" width="200"/></a> | <a href="certificates/wordpress.jpg"><img src="certificates/wordpress.jpg" width="200"/></a> |
