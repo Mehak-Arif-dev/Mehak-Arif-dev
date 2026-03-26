@@ -43,7 +43,6 @@ I’m open to projects, internships, and collaborations where I can apply my ski
 ---
 
 ## 📜 Certifications
-## 📜 Certifications
 
 <p align="center">
   <a href="certificates/git-and-github.png">
