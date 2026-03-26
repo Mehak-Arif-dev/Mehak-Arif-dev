@@ -42,6 +42,7 @@ I’m open to projects, internships, and collaborations where I can apply my ski
 
 ## 📜 Certifications
 
+
 <p align="center">
   <a href="certificates/git-and-github.png">
     <img src="certificates/git-and-github.png" width="200"/>
@@ -53,13 +54,13 @@ I’m open to projects, internships, and collaborations where I can apply my ski
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="certificates/fullstack-webdevelopment.jpeg">
-    <img src="certificates/fullstack-webdevelopment.jpeg" width="200"/>
+  <a href="certificates/fullstack-webdevelopment.jpg">
+    <img src="certificates/fullstack-webdevelopment.jpg" width="200"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="certificates/wordpress.jpeg">
-    <img src="certificates/wordpress.jpeg" width="200"/>
+  <a href="certificates/wordpress.jpg">
+    <img src="certificates/wordpress.jpg" width="200"/>
   </a>
 </p>
 
