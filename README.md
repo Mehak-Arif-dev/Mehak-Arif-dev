@@ -43,24 +43,12 @@ I’m open to projects, internships, and collaborations where I can apply my ski
 ## 📜 Certifications
 
 
-<p align="center">
-  <a href="certificates/git-and-github.png">
-    <img src="certificates/git-and-github.png" width="200"/>
-  </a>
-  <a href="certificates/azure-ai.png">
-    <img src="certificates/azure-ai.png" width="200"/>
-  </a>
-</p>
+## 📜 Certifications
 
-<p align="center">
-  <a href="certificates/fullstack-webdevelopment.jpg">
-    <img src="certificates/fullstack-webdevelopment.jpg" width="200"/>
-  </a>
-  <a href="certificates/wordpress.jpg">
-    <img src="certificates/wordpress.jpg" width="200"/>
-  </a>
-</p>
-
+| | |
+|---|---|
+| <a href="certificates/git-and-github.png"><img src="certificates/git-and-github.png" width="200"/></a> | <a href="certificates/wordpress.jpg"><img src="certificates/wordpress.jpg" width="200"/></a> |
+| <a href="certificates/fullstack-webdevelopment.jpg"><img src="certificates/fullstack-webdevelopment.jpg" width="200"/></a> | <a href="certificates/azure-ai.png"><img src="certificates/azure-ai.png" width="200"/></a> |
 ---
 
 ## 📫 Connect With Me
